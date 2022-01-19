@@ -1,5 +1,5 @@
-I solve tasks from the codewars.com
+#Codewars
 
-my profile:
+I solve tasks from the [codewars.com](https://www.codewars.com/)
 
-    https://www.codewars.com/users/romanOlontsev
+my profile: [romanOlontsev](https://www.codewars.com/users/romanOlontsev)
