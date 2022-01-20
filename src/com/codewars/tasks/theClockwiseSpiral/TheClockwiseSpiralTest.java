@@ -1,9 +1,7 @@
-package com.codewars.tasks.theClockwiseSpiral.task;
+package com.codewars.tasks.theClockwiseSpiral;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import java.util.Random;
 
 public class TheClockwiseSpiralTest {
 

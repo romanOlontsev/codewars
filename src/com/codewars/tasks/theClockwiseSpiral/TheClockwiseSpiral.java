@@ -1,4 +1,4 @@
-package com.codewars.tasks.theClockwiseSpiral.task;
+package com.codewars.tasks.theClockwiseSpiral;
 
 public class TheClockwiseSpiral {
 
